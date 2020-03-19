@@ -181,7 +181,7 @@ y
 
 x <- 2 ^ (0:10) # задал вектор из степеней двойки
 x
-log2(x)ё
+log2(x)
 
 set.seed(31)
 x <- sample(1:100, 1e5, replace = TRUE)
